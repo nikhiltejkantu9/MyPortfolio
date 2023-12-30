@@ -1,15 +1,15 @@
 const INFO = {
 	main: {
-		title: "Sumanth Chinnaobireddy",
-		name: "Tharindu N.",
-		email: "sumanthcob@gmail.com",
+		title: "Nikhil Tej Kantu",
+		name: "NTK",
+		email: "nkantu@ncsu.edu",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/rumanstheddy",
-		linkedin: "https://www.linkedin.com/in/sumanthcob/",
+		github: "https://github.com/nikhiltejkantu9",
+		linkedin: "https://www.linkedin.com/in/nikhiltejkantu9/",
 		instagram: "https://instagram.com/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
