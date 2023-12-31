@@ -208,7 +208,7 @@ const Homepage = () => {
 										<img
 											src={
 												process.env.PUBLIC_URL +
-												"/me3.jpg"
+												"/Me2023.jpg"
 											}
 											alt="about"
 											className="homepage-image"

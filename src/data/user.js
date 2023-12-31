@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Sumanth Chinnaobireddy",
+		title: "Nikhil Tej Kantu",
 		description:
-			"I'm a Software Developer specializing in React.js and Node.js. Proficient in crafting scalable, secure, and dependable web applications, I leverage various frameworks and technologies. I thrive on tackling intricate challenges and acquiring new skills. My passion lies in producing high-quality code adhering to best practices and industry standards. Eager for fresh challenges, I continually seek opportunities to enhance my skills and evolve as a developer.",
+			"I'm Nikhil!",
 	},
 
 	about: {
@@ -26,7 +26,8 @@ const INFO = {
 		description:
 			"Dive into my journey – from academic milestones to professional endeavors. Discover my story in a resumé format.",
 		download: {
-			link: "https://dl.dropboxusercontent.com/scl/fi/bw291kbhlgx3b50jr4cea/Resume2023-2.pdf?rlkey=hhpf886xwn7kr2xx3055zp4dz&dl=0",
+			link: "https://dl.dropboxusercontent.com/scl/fi/in9tmzrbvb721neprti86/Mathamatical-solving-for-spherical-architectures.pdf?rlkey=iy33erwokpbbhq95akzx3a5xv&dl=0", 
+			// https://www.dropbox.com/scl/fi/in9tmzrbvb721neprti86/Mathamatical-solving-for-spherical-architectures.pdf?rlkey=iy33erwokpbbhq95akzx3a5xv&dl=0
 			title: "My Resumé",
 			// description: "",
 		},
